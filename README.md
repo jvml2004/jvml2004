@@ -1,16 +1,14 @@
-### Hi there 👋
+## Bem-vindo(a) ao meu perfil no GitHb. ✋
 
-<!--
-**jvml2004/jvml2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend compartilhando um pouco do que sabe em projetos proprios.
+Prefêrencia por uma tecnologia mas sempre disposto a aprender outras se necessario.
 
-Here are some ideas to get you started:
+Tecnologias que possuo conhecimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- Git
+- MySQL
+- BootStrap
+
+Dentre outras tecnologias que complementam uns aos outros.  
+Entre em contato comigo através do meu email: jvmldev@outlook.com
